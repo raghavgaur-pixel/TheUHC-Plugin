@@ -22,7 +22,6 @@ The plugin enables a fair and competitive survival experience where:
 
 - Paper or Spigot server (1.21+ recommended)
 - Java 17 or higher (Java 21 supported)
-- Maven (for building the plugin)
 
 ---
 
@@ -59,13 +58,6 @@ game:
 
 ---
 
-### Border Settings
-
-border:
-  start-size: 500
-
----
-
 ### Countdown Settings
 
 countdown:
@@ -78,7 +70,6 @@ countdown:
 /startgame
 
 /pvp enable
-/pvp disable
 
 /border <size>
 
